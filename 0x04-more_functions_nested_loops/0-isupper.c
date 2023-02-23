@@ -1,5 +1,3 @@
-k 0
-
 #include "main.h"
 /**
  * _isupper - prints upper case
