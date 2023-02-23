@@ -7,7 +7,7 @@ k 0
  * @c: parameter
  *
  * Return: returns 1 or 0
- *       */
+ */
 int _isupper(int c)
 {
 
