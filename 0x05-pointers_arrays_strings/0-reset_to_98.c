@@ -1,13 +1,10 @@
 #include "main.h"
 /**
- * swap_int - swaps the values of two integers.
- * @a: first integer.
- * @b: second integer.
+ * reset_to_98 - takes a pointer to a parameter and updates its value.
+ * @n: input integer.
  * Return: no return.
  */
-void swap_int(int *a, int *b)
+void reset_to_98(int *n)
 {
-	int z = *a;
-	*a = *b;
-	*b = z;
+	*n = 98;
 }
