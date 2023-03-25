@@ -31,7 +31,8 @@ void print_strings(const char *separator, const unsigned int n, ...)
 
 	printf("\n");
 	va_end(valist);
-}#include "variadic_functions.h"
+}
+#include "variadic_functions.h"
 
 /**
  * print_strings - prints strings.
